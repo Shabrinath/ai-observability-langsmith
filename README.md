@@ -87,10 +87,12 @@ Think of LangSmith as your **AI application's black box** - it records every ste
 
 ## 🔍 Viewing Traces in LangSmith
 <img width="1201" height="737" alt="image" src="https://github.com/user-attachments/assets/592fb263-1df0-418c-88c9-80537e611951" />
+---
 <img width="1199" height="748" alt="image" src="https://github.com/user-attachments/assets/be92aff0-cbe3-4a2f-8796-c347dd78dc50" />
 
 ## 🔍 Viewing Monitoring in LangSmith
 <img width="1420" height="573" alt="image" src="https://github.com/user-attachments/assets/9eca48e6-9c35-4066-8fb3-eba5fd4771ed" />
+
 <img width="1221" height="710" alt="image" src="https://github.com/user-attachments/assets/0f5cb98a-dc50-4d24-a642-71592977700b" />
 
 ### 1. **Real-Time Tracing**
