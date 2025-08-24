@@ -43,13 +43,13 @@ Think of LangSmith as your **AI application's black box** - it records every ste
 1. **Clone and navigate to the repository**
    ```bash
    git clone <your-repo-url>
-   cd langchain-langsmith
+   cd ai-observability-langsmith
    ```
 
 2. **Initialize the project with uv**
    ```bash
-   uv init langsmith-demo
-   cd langsmith-demo
+   uv init ai-observability-langsmith
+   cd ai-observability-langsmith
    ```
 
 3. **Create and activate virtual environment**
