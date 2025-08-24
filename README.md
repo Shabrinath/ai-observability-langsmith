@@ -88,6 +88,8 @@ Think of LangSmith as your **AI application's black box** - it records every ste
    ```
 
 ## 🔍 Viewing Traces and Monitoring in LangSmith
+<img width="1201" height="737" alt="image" src="https://github.com/user-attachments/assets/592fb263-1df0-418c-88c9-80537e611951" />
+
 
 ### 1. **Real-Time Tracing**
 - Every function call decorated with `@traceable` is automatically traced
