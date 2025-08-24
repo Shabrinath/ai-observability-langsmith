@@ -1,7 +1,5 @@
 # AI Application Observability & Traceability Powered by LangSmith
 
-## 🤔 What is This?
-
 This repository shows how to build AI applications with **LangChain** and **LangSmith**, with a special focus on **observability** and **traceability**—making it easy to monitor, debug, and understand every step your AI app takes in production.
 
 ## 🔍 What are LangChain and LangSmith?
