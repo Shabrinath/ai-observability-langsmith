@@ -1,6 +1,4 @@
-# 🚀 LangChain + LangSmith: AI Development Made Simple
-
-> **AI Application Observability & Traceability Powered by LangSmith**
+# AI Application Observability & Traceability Powered by LangSmith
 
 ## 🤔 What is This?
 
